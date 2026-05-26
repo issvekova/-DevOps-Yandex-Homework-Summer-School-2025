@@ -1,2 +1,2 @@
-# -Yandex-Homework-Summer-School-2025
+# -DevOps\SRE Yandex-Homework-Summer-School-2025
 Тут выгружены домашние задания с Летней школы яндекса 2025, они выполнялись в формате отчета в файле. 
